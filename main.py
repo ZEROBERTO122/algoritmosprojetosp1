@@ -1,0 +1,1 @@
+print('Chico é gay')
